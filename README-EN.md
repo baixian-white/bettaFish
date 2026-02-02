@@ -5,10 +5,8 @@
 <a href="https://trendshift.io/repositories/15286" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15286" alt="666ghj%2FBettaFish | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <a href="https://aihubmix.com/?aff=8Ds9" target="_blank"><img src="./static/image/logo_aihubmix.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>&ensp;
-<a href="https://lioncc.ai/" target="_blank"><img src="./static/image/logo_loincc.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>&ensp;
-<a href="https://share.302.ai/P66Qe3" target="_blank"><img src="./static/image/logo_302ai.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>
-
-<a href="https://open.anspire.cn/?share_code=3E1FUOUH" target="_blank"><img src="./static/image/logo_anspire.png" alt="666ghj%2FBettaFish | Trendshift" height="50"/></a>
+<a href="https://open.anspire.cn/?share_code=3E1FUOUH" target="_blank"><img src="./static/image/logo_anspire.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>&ensp;
+<a href="https://www.swiftproxy.net/?ref=dai" target="_blank"><img src="./static/image/logo_SwiftProxy.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/666ghj/BettaFish?style=flat-square)](https://github.com/666ghj/BettaFish/stargazers)
 [![GitHub Watchers](https://img.shields.io/github/watchers/666ghj/BettaFish?style=flat-square)](https://github.com/666ghj/BettaFish/watchers)
@@ -24,6 +22,13 @@
 [English](./README-EN.md) | [中文文档](./README.md)
 
 </div>
+
+> [!IMPORTANT]  
+> Check out our newly released prediction engine: [MiroFish - A Simple and Universal Swarm Intelligence Engine for Predicting Everything](https://github.com/666ghj/MiroFish)
+> 
+> <img src="static/image/MiroFish_logo_compressed.jpeg" alt="banner" width="300">
+>
+> The "Data Analysis Three-Step Approach" is now fully connected: We are excited to announce the official release of MiroFish! With the final piece of the puzzle in place, we have built a complete pipeline from BettaFish (data collection and analysis) to MiroFish (panoramic prediction). The closed loop from raw data to intelligent decision-making is now complete, making it possible to foresee the future!
 
 ## ⚡ Project Overview
 
@@ -68,24 +73,13 @@ Say goodbye to traditional data dashboards. In "WeiYu", everything starts with a
 LLM Model API Sponsor: <a href="https://aihubmix.com/?aff=8Ds9" target="_blank"><img src="./static/image/logo_aihubmix.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a>
 
 <details>
-<summary>Solomon Blog LionCC.ai; Programming Carpool codecodex.ai; Programming Computing Power VibeCodingAPI.ai: <span style="margin-left: 10px"><a href="https://codecodex.ai/" target="_blank"><img src="./static/image/logo_loincc.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a></span></summary>
-
-1. Solomon Blog LionCC.ai has updated the "BettaFish WeiYu System - LionCC API Deployment Configuration Complete Guide" and is optimizing one-click deployment and cloud server invocation solutions.
-2. VibeCodingapi.ai Lion Computing Platform has adapted to all LLM models of "BettaFish WeiYu System", including Claude Code, OpenAI Codex, and Gemini CLI programming development computing power. The quota price is 1:1 (100 yuan equals 100 USD quota).
-3. Codecodex.ai Lion Programming Carpool System has achieved IP-free access to bypass Claude Code and OpenAI Codex restrictions. After following the official deployment tutorial, simply switch the BASE_URL invocation address and Token key invocation key to use the most powerful programming models.
-
-Solomon LionCC BettaFish WeiYu Benefits: Open codecodex.ai Lion Programming Channel, scan the QR code to join the WeChat community, register for VibeCodingapi.ai Lion Computing, and receive 20 USD API quota (limited to the first 1,000 users).
-</details>
-
-<details>
-<summary>Pay-as-you-go enterprise-grade AI resource platform offering a comprehensive set of AI models and APIs, plus multiple ready-to-use online AI apps: <span style="margin-left: 10px"><a href="https://share.302.ai/P66Qe3" target="_blank"><img src="./static/image/logo_302ai.png" alt="302.ai" height="40"/></a></span></summary>
-<img src="static/image/banner_302ai.jpg" alt="banner">
-302.AI is a pay-as-you-go enterprise AI resource hub that offers the latest and most comprehensive AI models and APIs on the market, along with a variety of ready-to-use online AI applications.
-</details>
-
-<details>
 <summary>Provider of core agent capabilities including AI web search, file parsing, and web content scraping: <span style="margin-left: 10px"><a href="https://open.anspire.cn/?share_code=3E1FUOUH" target="_blank"><img src="./static/image/logo_anspire.png" alt="666ghj%2FBettaFish | Trendshift" height="50"/></a></span></summary>
 Anspire Open is a leading infrastructure provider for the agent era. We offer developers the core capability stack needed to build powerful agents. Currently available services include AI web search (multiple versions, highly competitive pricing), file parsing (limited-time free), web content scraping (limited-time free), cloud browser automation (Anspire Browser Agent, in beta), multi-turn rewriting, and more. We continue to provide a solid foundation for agents to connect and operate in complex digital worlds. Seamlessly integrates with mainstream agent platforms such as Dify, Coze, and Yuanqi. Through a transparent credit-based billing system and modular design, we provide enterprises with efficient, low-cost customized support to accelerate intelligent transformation.
+</details>
+
+<details>
+<summary>Free trial traffic, never expires! Global IP resources covering 200+ countries and regions, easily handle data scraping and big data collection: <span style="margin-left: 10px"><a href="https://www.swiftproxy.net/?ref=dai" target="_blank"><img src="./static/image/logo_SwiftProxy.png" alt="666ghj%2FBettaFish | Trendshift" height="40"/></a></span></summary>
+Free trial traffic, never expires! Over 90 million high-quality real residential IPs covering 200+ countries and regions, fully supporting HTTP(S)/SOCKS5 protocols and unlimited concurrent connections, easily handle data scraping, market research, and big data collection, with 99.99% stable uptime. Start your global efficient proxy access now.
 </details>
 
 ## 🏗️ System Architecture
@@ -177,6 +171,11 @@ BettaFish/
 │   ├── ir/                                 # Report Intermediate Representation (IR) contract & validation
 │   │   ├── schema.py                       # Block/mark schema constant definitions
 │   │   └── validator.py                    # Chapter JSON structure validator
+│   ├── graphrag/                           # GraphRAG graph building and search
+│   │   ├── graph_builder.py                # Build graph from state JSON + forum logs
+│   │   ├── graph_storage.py                # Graph object manager and graphrag.json I/O
+│   │   ├── query_engine.py                 # Keyword/type/depth query entry
+│   │   └── ...                             # Forum/state parsers, prompts, etc.
 │   ├── nodes/                              # Full workflow reasoning nodes
 │   │   ├── base_node.py                    # Node base class + logging/state hooks
 │   │   ├── template_selection_node.py      # Template candidate collection and LLM selection
@@ -261,10 +260,11 @@ BettaFish/
 ├── templates/                              # Flask frontend templates
 │   └── index.html                          # Main interface HTML
 ├── static/                                 # Static resources
-│   └── image/                              # Image resources
-│       ├── logo_compressed.png
-│       ├── framework.png
-│       └── ...
+│   ├── image/                              # Image resources
+│   │   └── ...
+│   ├── Partial README for PDF Exporting/   # PDF export dependency setup guide
+│   └── v2_report_example/                  # Report rendering examples
+│       └── report_all_blocks_demo/         # Full block types demo (HTML/PDF/MD)
 ├── logs/                                   # Runtime log directory
 ├── final_reports/                          # Final generated report files
 │   ├── ir/                                 # Report IR JSON files
@@ -284,6 +284,8 @@ BettaFish/
 ├── docker-compose.yml                      # Docker multi-service orchestration config
 ├── Dockerfile                              # Docker image build file
 ├── requirements.txt                        # Python dependency list
+├── regenerate_latest_html.py               # Rebind latest chapters and render HTML
+├── regenerate_latest_md.py                 # Rebind latest chapters and render Markdown
 ├── regenerate_latest_pdf.py                # PDF regeneration utility script
 ├── report_engine_only.py                   # Report Engine CLI version
 ├── README.md                               # Chinese documentation
@@ -488,7 +490,7 @@ python main.py --deep-sentiment --platforms xhs dy wb
 
 #### 6.4 Command-line Report Generation Tool
 
-This tool bypasses the execution phase of all three analysis engines, directly loads their most recent log files, and generates a consolidated report without requiring the Web interface (while also skipping incremental file-validation steps). It is typically used when rapid retries are needed due to unsatisfactory report outputs, or when debugging the Report Engine.
+This tool bypasses the execution phase of all three analysis engines, directly loads their most recent log files, and generates a consolidated report without requiring the Web interface (while also skipping incremental file-validation steps). It will also generate a Markdown copy after the PDF by default (toggle via CLI flag). It is typically used when rapid retries are needed due to unsatisfactory report outputs, or when debugging the Report Engine.
 
 ```bash
 # Basic usage (automatically extract topic from filename)
@@ -500,8 +502,14 @@ python report_engine_only.py --query "Civil Engineering Industry Analysis"
 # Skip PDF generation (even if system supports it)
 python report_engine_only.py --skip-pdf
 
+# Skip Markdown generation
+python report_engine_only.py --skip-markdown
+
 # Show verbose logging
 python report_engine_only.py --verbose
+
+# Turn on GraphRAG via CLI and adjust query cap (falls back to .env, default off)
+python report_engine_only.py --graphrag-enabled true --graphrag-max-queries 3
 
 # Show help information
 python report_engine_only.py --help
@@ -516,13 +524,20 @@ python report_engine_only.py --help
 5. **Automatic File Saving**:
    - HTML reports saved to `final_reports/` directory
    - PDF reports (if dependencies available) saved to `final_reports/pdf/` directory
-   - File naming format: `final_report_{topic}_{timestamp}.html/pdf`
+   - Markdown reports (disable with `--skip-markdown`) saved to `final_reports/md/` directory
+   - File naming format: `final_report_{topic}_{timestamp}.html/pdf/md`
+6. **Optional GraphRAG**: CLI flags override `.env`; if neither is set the feature stays off
 
 **Notes:**
 
 - Ensure at least one of the three engine directories contains `.md` report files
 - The command-line tool is independent of the Web interface and does not interfere with each other
 - PDF generation requires system dependencies, see "Install PDF Export System Dependencies" section above
+
+**Quickly re-render the latest outputs:**
+
+- `regenerate_latest_html.py` / `regenerate_latest_md.py`: Re-stitch the latest chapter JSON from `CHAPTER_OUTPUT_DIR` into a Document IR and render to HTML or Markdown directly.
+- `regenerate_latest_pdf.py`: Read the newest IR under `final_reports/ir` and re-export a PDF with SVG vector charts.
 
 ## ⚙️ Advanced Configuration (Deprecated: Configuration has been unified to the `.env` file in the project root directory, and other sub-agents automatically inherit the root directory configuration)
 
@@ -571,16 +586,14 @@ The system supports any LLM provider that follows the OpenAI request format. You
 >```python
 >from openai import OpenAI
 >
->client = OpenAI(api_key="your_api_key",
->                base_url="https://api.siliconflow.cn/v1")
+>client = OpenAI(api_key="your_api_key", 
+>                base_url="https://aihubmix.com/v1")
 >
 >response = client.chat.completions.create(
->    model="Qwen/Qwen2.5-72B-Instruct",
+>    model="gpt-4o-mini",
 >    messages=[
->        {
->            'role': 'user',
->            'content': "What new opportunities will reasoning models bring to the market?"
->        }
+>        {'role': 'user', 
+>         'content': "What new opportunities will reasoning models bring to the market?"}
 >    ],
 >)
 >
@@ -703,13 +716,12 @@ We welcome all forms of contributions!
 
 ## 🦖 Next Development Plan
 
-The system has currently completed only the first two steps of the "three-step approach": requirement input -> detailed analysis. The missing step is prediction, and directly handing this over to LLM lacks persuasiveness.
+The system has now completed the final prediction step! Visit 【MiroFish - Predict Everything】: https://github.com/666ghj/MiroFish
 
 <div align="center">
+<img src="static/image/MiroFish_logo_compressed.jpeg" alt="banner" width="800">
 <img src="static/image/banner_compressed.png" alt="banner" width="800">
 </div>
-
-Currently, after a long period of crawling and collection, we have accumulated massive data on topic popularity trends over time, trending events, and other change patterns across the entire network. We now have the conditions to develop prediction models. Our team will apply our technical reserves in time series models, graph neural networks, multimodal fusion, and other prediction model technologies to achieve truly data-driven public opinion prediction functionality.
 
 ## ⚠️ Disclaimer
 
